@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790096409494,
+  "timestamp": 1790096414779,
   "appVersion": "6.9.82 (2026.09.22)",
   "tables": [
     "characters",
@@ -146,7 +146,8 @@
     "imageStore": true,
     "stickerStore": true,
     "quickReplies": true,
-    "goingOutState": true
+    "goingOutState": true,
+    "goingOutAreas": true
   },
   "inProgress": true
 }
