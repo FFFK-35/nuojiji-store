@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1790096665200,
-  "appVersion": "6.9.82 (2026.09.22)",
+  "timestamp": 1790097900124,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -207,5 +207,6 @@
     "charBondSpaces": true,
     "charLifePlans": true
   },
+  "source": "auto",
   "inProgress": true
 }
