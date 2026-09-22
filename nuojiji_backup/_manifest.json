@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790096435420,
+  "timestamp": 1790096440539,
   "appVersion": "6.9.82 (2026.09.22)",
   "tables": [
     "characters",
@@ -152,7 +152,8 @@
     "jiliData": true,
     "jiliCreators": true,
     "jiliPosts": true,
-    "jiliDMs": true
+    "jiliDMs": true,
+    "mapRasterCache": true
   },
   "inProgress": true
 }
