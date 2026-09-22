@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790096613178,
+  "timestamp": 1790096618221,
   "appVersion": "6.9.82 (2026.09.22)",
   "tables": [
     "characters",
@@ -193,7 +193,8 @@
     "walletTransactions": true,
     "walletData": true,
     "shopOrders": true,
-    "shopData": true
+    "shopData": true,
+    "shopFulfillments": true
   },
   "inProgress": true
 }
