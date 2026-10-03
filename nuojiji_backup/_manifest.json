@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791039093972,
+  "timestamp": 1791039099094,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -217,7 +217,8 @@
     "globalSettings": true,
     "messages": true,
     "roleStickers": true,
-    "forumItems": true
+    "forumItems": true,
+    "xinshengRounds": true
   },
   "source": "auto",
   "inProgress": true
