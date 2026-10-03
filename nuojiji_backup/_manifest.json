@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791039055899,
+  "timestamp": 1791039062952,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -216,7 +216,8 @@
     "_migration": true,
     "globalSettings": true,
     "messages": true,
-    "roleStickers": true
+    "roleStickers": true,
+    "forumItems": true
   },
   "source": "auto",
   "inProgress": true
