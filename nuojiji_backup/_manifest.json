@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791115502169,
+  "timestamp": 1791115509054,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -118,7 +118,7 @@
     "stickerStore": 3,
     "stickers": 2,
     "roleStickers": 2,
-    "messages": 1
+    "messages": 2
   },
   "completedTables": {
     "characters": true,
@@ -217,7 +217,6 @@
     "charLifePlans": true,
     "_migration": true,
     "globalSettings": true,
-    "messages": true,
     "forumItems": true,
     "xinshengRounds": true,
     "jiliDMMessages": true,
